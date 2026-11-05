@@ -1,33 +1,17 @@
 
+Note on Application Execution
 
-1. Project Title
-Java Swing Calculator Application
+The Java Swing Calculator source code has been completed and uploaded to this repository.
 
-2. Project Problem Statement
-Performing basic mathematical calculations manually can take time. This project provides a simple calculator application to perform calculations quickly and easily.
+Due to the unavailability of a laptop or desktop computer, I was unable to execute the GUI application and capture its output screenshot.
 
-3. Project Description
-The Java Swing Calculator is a graphical user interface application developed using Java. It allows users to perform basic mathematical operations through buttons.
+The application is designed to run on a desktop environment with Java Swing support.
 
-4. Key Features
-   - Addition
-   - Subtraction
-   - Multiplication
-   - Division
-   - Percentage calculation
-   - Positive and negative number conversion
-   - Clear button
-   - Decimal number support
+Thank you for your understanding.
 
-5. Technologies Used
-    - Java
-    - Java Swing
-    - AWT
-    - Object-Oriented Programming
 
-6. Student Information
-Name: Sujil S.P
-
-College: Rajadhani Polytechnic College
-
-Department: Computer Engineering
+ 
+Student Information
+   Name: Sujil S.P
+   College: Rajadhani Polytechnic College
+   Department: Computer Engineering
