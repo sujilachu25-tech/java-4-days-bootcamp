@@ -27,5 +27,7 @@ The Java Swing Calculator is a graphical user interface application developed us
 
 6. Student Information
 Name: Sujil S.P
+
 College: Rajadhani Polytechnic College
+
 Department: Computer Engineering
